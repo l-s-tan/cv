@@ -61,7 +61,7 @@ h3 {
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
   float: left;
-  width: 20.0%;
+  width: 16.66%;
 }
 
 /* Clear floats after image containers */
